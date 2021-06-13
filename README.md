@@ -39,8 +39,8 @@ uvicorn main:app --reload
     <img src="./img/match.png" width=800/>
     <h3>No Match</h3>
     <img src="./img/nomatch.png" width=800/>
-    <h3>Logs</h3>
-    <img src="./img/logs.png" width=800/>
-    <h3>Model</h3>
+    <h3>Match logs</h3>
+    <img src="./img/logs.png" width=600/>
+    <h3>Stored model</h3>
     <img src="./img/model.png" width=800/>
 </p>
