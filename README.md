@@ -1,6 +1,6 @@
 ## ServiceBot
 
-Create a customer service bot from any CSV or body of text.
+Create a customer service bot from any CSV or question/answer dataset.
 
 Built for the Sentiment & Opinion Mining hackathon.
 
