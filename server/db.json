@@ -1,0 +1,30 @@
+{
+  "questions": {
+    "1": {
+      "question": "Which languages does your product support?",
+      "answer": "This product currently supports English only.",
+      "terms": {
+        "product": 0.740899000947834,
+        "linguistic communication": 0.6716164607828647
+      }
+    },
+    "2": {
+      "question": "When was the product release date?",
+      "answer": "This product was released in 2021.",
+      "terms": {
+        "product": 0.750593749222919,
+        "date": 0.6478083602987192,
+        "release": 0.13020503813050635
+      }
+    },
+    "3": {
+      "question": "What is the return policy after purchase?",
+      "answer": "There is a 30 day return policy with return shipping included.",
+      "terms": {
+        "policy": 0.7570050478904325,
+        "purchase": 0.4794365303306073,
+        "return": 0.4439414047517448
+      }
+    }
+  }
+}
