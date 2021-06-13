@@ -38,6 +38,8 @@ export default function Home() {
   if (!chatReady) {
     return (
       <div>
+        <h1>ServiceBot</h1>
+        <p>To get started, upload a question and answer csv below.</p>
         <CSVReader onFileLoaded={onLoaded} parserOptions={{ header: true }} />
       </div>
     );
